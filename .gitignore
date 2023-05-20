@@ -1,0 +1,9 @@
+
+# All data files 
+*.csv
+
+# Remove .ipynb checkpoints
+.ipynb_checkpoints
+
+# MAC files
+.DS_Store
