@@ -7,3 +7,6 @@
 
 # MAC files
 .DS_Store
+
+# Testing Data
+Test/
